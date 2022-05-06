@@ -1,0 +1,31 @@
+body {
+background: url(https://st2.depositphotos.com/2013817/5605/v/600/depositphotos_56051269-stock-illustration-doodle-sketch-watches.jpg)
+}
+#center{
+    margin: 0 auto;
+
+padding-left: 100px;
+
+width: 25%;
+
+height: 100px;
+}
+#sifirlayan{
+width: 25%;
+height: 150px;
+background-color: black ;
+color: white;
+font-size: 100px;
+margin: 0 auto;
+padding-left: 80px;
+margin-bottom: 50px;
+}
+#laps{
+    margin: 0 auto;
+   
+    padding-left: 100px;
+    
+    width: 25%;
+    font-size: 100px;
+    height: 100px;
+}
